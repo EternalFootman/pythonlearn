@@ -186,7 +186,7 @@ How many pages:3
 How many pages:
 ~~~~
 
-You can have multiple starting points in the same database—within the
+You can have multiple starting points in the same database; within the
 program, these are called "webs". The spider chooses randomly amongst
 all non-visited links across all the webs as the next page to spider.
 
